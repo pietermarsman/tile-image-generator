@@ -1,7 +1,7 @@
 from math import ceil
-from random import random, uniform
+from random import uniform
 
-from PIL import Image, ImageColor
+from PIL import Image
 
 from colors import rgb_from_hsv
 
